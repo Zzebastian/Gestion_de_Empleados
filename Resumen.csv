@@ -1,0 +1,16 @@
+idempleado,nombre,apellido,dni,antiguedad,categoria,básico,lic_c_motivo,lic_s_motivo
+2,María,López,28546987,5,Oficial,150000.0,0,0
+3,Carlos,Rodríguez,39987456,7,Oficial,150000.0,0,0
+4,Laura,Fernández,26587456,4,Mantenimiento,170000.0,0,0
+5,Pedro,Gómez,28569745,2,Supervisor,200000.0,0,0
+6,Ana,Pérez,37845698,7,Jefe,220000.0,0,0
+7,Luis,Sánchez,42569874,9,Gerente,280000.0,0,0
+8,Marcela,Torres,31548796,0,Ayudante,100000.0,0,0
+9,Jorge,González,25789456,3,Medio Oficial,120000.0,0,0
+10,Silvia,Morales,39874125,-2,Mantenimiento,170000.0,0,0
+11,Roberto,Luna,31254789,1,Jefe,220000.0,0,0
+12,Lucía,Cabrera,28974563,6,Gerente,280000.0,0,0
+13,Diego,Romero,39856214,-1,Oficial,150000.0,0,0
+14,Mariana,Navarro,25987436,3,Supervisor,200000.0,0,0
+15,Gustavo,Mendoza,24581369,8,Medio Oficial,120000.0,0,0
+16,Marina,Ríos,38796521,4,Gerente,280000.0,0,0

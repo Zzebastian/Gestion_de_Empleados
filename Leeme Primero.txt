@@ -1,0 +1,14 @@
+El trabajo práctico consta de 6 archivos (Incluyendo éste):
+
+CreacionBDD.sql: un BackUp de la base de datos, que consiste en un script capaz de re-generar la base de datos original.
+
+gestion_empleados.sql: la base de datos sobre la cual se opera con el programa.
+
+PantallasTkinter.py: el programa donde se crea la interfaz gráfica en la cual el usuario trabaja y posee dos claves: {"admin": "123456"} y {"": "") que habilita a ingresar automáticamente. Las contraseñas se encuentran con un HASH, pues el archivo se compartió a través de Replit y dicha aplicación lo hace público para todo el mundo. Esto puede saltarse si se modifica la línea 703 del código y se cambia _Inicial() por _Seleccion()
+
+funcionesBdD.py: el conjunto de funciones que operan sobre la base de datos. Se hizo así porque las mismas se fueron creando y probando individualmente y en paralelo a la construcción de las pantallas en Tkinter
+
+Resumen.csv: una muestra del archivo exportable que genera el programa, donde se puede observar en detalle cómo funciona la capacidad de extraer datos del programa a un archivo externo.
+
+NOTA:
+Si bien está habilitada la carga de horas extras, el sistema no carga las mismas en la pantalla Detalle del mes, esto se debe principalmente a cuestiones estéticas y de tiempo.

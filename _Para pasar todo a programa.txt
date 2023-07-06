@@ -1,0 +1,11 @@
+Si deseas combinar todo el contenido de los archivos mencionados en un solo programa, puedes seguir estos pasos:
+
+Abre cada archivo en un editor de texto o IDE, incluyendo "PantallasTkinter.py", "funcionesBdD.py" y cualquier otro archivo relevante para tu programa.
+
+Copia y pega el contenido de cada archivo en el archivo principal de tu programa, "PantallasTkinter.py". Asegúrate de pegar el contenido en los lugares adecuados, respetando la estructura y la lógica del programa.
+
+Asegúrate de resolver cualquier conflicto de nombres o duplicación de código que pueda surgir al combinar los archivos. Asegúrate de que no haya funciones, variables o importaciones duplicadas y que todo esté correctamente organizado.
+
+Una vez que hayas combinado todo el código en un solo archivo, puedes seguir los pasos mencionados anteriormente para convertirlo en un archivo ejecutable, utilizando herramientas como PyInstaller o cx_Freeze.
+
+Recuerda revisar y probar tu programa después de combinar los archivos para asegurarte de que todo funcione correctamente y que no haya errores o incompatibilidades entre las diferentes partes del código.
